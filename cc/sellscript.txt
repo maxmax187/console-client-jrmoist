@@ -1,0 +1,3 @@
+send /sell all
+send /pay maxmax187 10000000
+

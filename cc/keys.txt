@@ -1,0 +1,6 @@
+send /crates transfer maxmax187 dropparty 1
+send /crates transfer maxmax187 dropparty 1
+send /crates transfer maxmax187 basic 1
+send /crates transfer maxmax187 basic 1
+send /crates transfer maxmax187 parkour 1
+send /crates transfer maxmax187 parkour 1
